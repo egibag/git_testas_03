@@ -10,6 +10,8 @@ namespace Git_testas_03
     {
         static void Main(string[] args)
         {
+
+            //1 komentaras
         }
     }
 }
